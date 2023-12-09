@@ -163,5 +163,5 @@ def solution(numbers):
     # 다시 문자열로 바꾸어 return
     return str(answer)
 
-numbers = [8, 30, 17, 2, 23]
-print(solution(numbers))
+# numbers = [8, 30, 17, 2, 23]
+# print(solution(numbers))
